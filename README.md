@@ -1,6 +1,6 @@
 # ITELEC
 
-Projects
+QUIZ PARA SA ITELEC
 
 🏦 HANDS-ON QUIZ #1: Simple Bank Account System
 
@@ -10,5 +10,6 @@ Projects
 
 - ["Vehicle Management System"](https://github.com/Kairuu12/Vehicle-Management-System.git)
 
-
 🛒 FINALS HANDS-ON QUIZ #3: Simple Online Product Display System
+
+- ["Online Product Display System"](https://github.com/Kairuu12/Online_Product_Display_System.git)
